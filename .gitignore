@@ -1,0 +1,10 @@
+build
+bin
+.Python
+lib
+src
+include
+*.pyc
+.DS_Store
+uploads
+output

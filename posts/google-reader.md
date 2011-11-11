@@ -1,0 +1,10 @@
+Date: 2011-10-26
+Title: The Opportunity of Google Reader
+
+Google have really messed up with Reader. Instead of simplifying it and integrating it into Chrome, they chose to bloat it with features. Thankfully it has a decent API for client authors. Reeder for iPad, a Google Reader frontend or *client* is a beautiful experience. But its long term value is only as good as the feeds you put into it. And that's where it kind of falls apart, since you still have to deal with google.com/reader at some point. At least 90% of people have no idea what the benefits of a feed reader are. And a hard to underestimate sized portion of those would appreciate an aggregator of their favorite sites and a way to manage their content flow. Twitter proved that. People like their heroes of prose arranged in a continually updated stream of content. 
+
+It makes no business sense to treat feed reading like a "prosumer" hobby either. A collection of feeds are an incredibly good source of data for target advertising. Partly because the feeds reflect people aspirationally. The things people follow and spend time to get inspired and informed could be better indicators of what advertising they would want to see, then for example their personal correspondence in Gmail. Publishers small and large should get a piece of that pie too. It has the potential to become, at last, a marketplace of internet publishing. Something along the lines of what Readability is trying to do. 
+
+If Google could pull it off, we'd reach an incredible tipping point where solo publishing could finally flourish. 
+
+**UPDATE** Google recently introduced some changes to Reader which I was unaware of. Nothing earth-shattering; more or less just Google+ integration. One could assume that this post was a riff on those recent developments, but that's not the case. [Read Brent Simmons' take on things](http://inessential.com/2011/10/24/google_reader_and_mac_ios_rss_readers_th).
