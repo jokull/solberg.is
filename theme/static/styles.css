@@ -39,7 +39,7 @@ p img { max-width: 100%; }
 code, pre { font-family: courier-new, courier, monospace; 
             background: rgba(0, 255, 0, .05); }
 code { font-weight: bold; }
-pre { padding: 15px; margin: 0 20px;
+pre { padding: 15px; margin: 20px 0;
       box-shadow: 0 0 2px rgba(0, 255, 0, .8);
       font-size: 12px; }
 small { font-size: 80%; }
