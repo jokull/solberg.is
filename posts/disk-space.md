@@ -8,3 +8,5 @@ The way to solve this is to turn filesystems, or at least program file managemen
 This also solves the other problem with hard drives, their unreliability.
 
 Let's do this at a lower level. iCloud could continually scan your SSD drive for files you only rarely seek. I would not be surprised if Apple were working on an iCloud solution that jumps in when you run out of disk space and pushes things to "online" mode. Algorithms can easily detect files that do not need fast access. OS X apps with could access an API to correct false positives. Merge Spotlight, Disk Utilities and Time Machine into one interface to manage this.
+
+
